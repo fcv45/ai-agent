@@ -1,0 +1,14 @@
+{
+  "sensitivityLabels": [],
+  "builderInfo": {
+    "environmentId": "Default-1f7920eb-2662-4d1c-814a-c76508f8dfe3",
+    "builderName": "EmbeddedCopilotStudio",
+    "creatorId": "56c13a11-63ca-462a-aceb-66bc5014383f",
+    "owners": [
+      {
+        "entityId": "56c13a11-63ca-462a-aceb-66bc5014383f",
+        "entityType": "User"
+      }
+    ]
+  }
+}
